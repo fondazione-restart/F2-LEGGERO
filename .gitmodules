@@ -1,0 +1,6 @@
+[submodule "zkIDS"]
+	path = zkIDS
+	url = https://github.com/bonsai-lab-polimi/zkIDS
+[submodule "tlmsp-dc-middlebox"]
+	path = tlmsp-dc-middlebox
+	url = https://github.com/bonsai-lab-polimi/tlmsp-dc-middlebox
