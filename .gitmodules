@@ -4,3 +4,12 @@
 [submodule "tlmsp-dc-middlebox"]
 	path = tlmsp-dc-middlebox
 	url = https://github.com/bonsai-lab-polimi/tlmsp-dc-middlebox
+[submodule "netto"]
+	path = netto
+	url = https://github.com/miolad/netto
+[submodule "sure"]
+	path = sure
+	url = https://github.com/ucr-serverless/sure
+[submodule "ONE"]
+	path = ONE
+	url = https://github.com/CVLab-Uniss/ONE
